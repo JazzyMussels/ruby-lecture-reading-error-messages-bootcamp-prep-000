@@ -1,3 +1,5 @@
-"hello world"
+x = "hello world"
 
-p hello_world
+hello_world = 'hello world'
+
+x == hello_world
